@@ -1,7 +1,7 @@
 <?php
 
 include "../classes/User.php";
-
+// this is a sample message for gif testing
 $user = new User;
 
 if(isset($_POST['register']))
